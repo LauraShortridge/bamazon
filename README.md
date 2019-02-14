@@ -4,7 +4,7 @@ This is a store app that displays store product information and allows the user 
 
 ### Features:
 
-This utalizes node and mysql.
+This utilizes node and mysql.
 
 It also uses dotenv and gitignore to protect password information.  
 
